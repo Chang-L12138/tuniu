@@ -10,8 +10,8 @@
 2. **支持普票，优先购，以及回流（测试中）**
 
 最新软件在Q群，615780337。欢迎大家进群讨论
-
-
+| ![01](https://github.com/Chang-L12138/tuniu/blob/main/img/01.jpg) |   ![02](https://github.com/Chang-L12138/tuniu/blob/main/img/02.jpg)   |  ![03](https://github.com/Chang-L12138/tuniu/blob/main/img/03.jpg)    |
+| ----- | ---- | ---- |
 
 ### 日志
 
